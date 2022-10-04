@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Wed Development & UX Design]
-(https://github.com/ZackAtama/zackatama/blob/main/assets/images/header-banner.jpg)
+
 <!--
 **lumu-daniel/lumu-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
